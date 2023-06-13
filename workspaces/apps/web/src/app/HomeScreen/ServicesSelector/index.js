@@ -19,7 +19,7 @@ const ServicesSelector = ({ session, categories }) => {
   }
 
   return (
-    <div ref={menuRef} className={cx($.servicesNav, category && $.active)}>
+    <div ref={menuRef}  className={cx($.servicesNav, category && $.active)}>
       <ul className={$.categoriesNav}>
         {categories.map(cat => (
           <li key={cat.id} className={cat === category ? $.active : ''}>

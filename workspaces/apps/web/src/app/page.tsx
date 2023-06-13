@@ -72,10 +72,34 @@ export default async function Home() {
       image: "https://gogetdigitalmenu.com/wp-content/uploads/2023/05/galleriet13-332x397.jpg"
     }
   ];
-  
+  const products = [
+    {
+      id: 1,
+      title: "Shampoo",
+      description: "The best shampoo for oily hair",
+      imageUrl: "https://www.dove.com/content/dam/unilever/dove/pakistan/pack_shot/hairfall-rescue-conditioner-front-798854-2170937-png.png",
+      price: "65 $",
+    },
+    {
+      id: 2,
+      title: "Conditioner",
+      description: "Deep conditioning treatment for all hair types",
+      imageUrl: "https://www.dove.com/content/dam/unilever/dove/pakistan/pack_shot/hairfall-rescue-conditioner-front-798854-2170937-png.png",
+      price: "20 $",
+    },
+    {
+      id:3,
+      title: "Conditioner",
+      description: "Deep conditioning treatment for all hair types",
+      imageUrl: "https://www.dove.com/content/dam/unilever/dove/pakistan/pack_shot/hairfall-rescue-conditioner-front-798854-2170937-png.png",
+      price: "20 $",
+
+    }
+  ];
+
   return (
     <main className={styles.main}>
-      <HomeScreen categories={categories} salons={salons} categoriess={categoriess} featured={mockBusinesses}/>
+      <HomeScreen products={products} categories={categories} salons={salons} categoriess={categoriess} featured={mockBusinesses}/>
     </main>
   )
 }

@@ -1,10 +1,9 @@
 .servicesNav {
-  width: 100vw;
+  //width: 100vw;
   bottom: 0;
   height: var(--subnav-height);
   background-color: rgba(255, 255, 255, 0.8);
   z-index: 99999999999;
-
   li {
     cursor: pointer;
     &:hover {
@@ -28,7 +27,7 @@
   .subMenu {
     position: absolute;
     background-color: rgba(255, 255, 255, 0.8);
-    width: 100vw;
+    //width: 100vw;
     display: none;
 
     .services {
@@ -60,3 +59,5 @@
     }
   }
 }
+
+

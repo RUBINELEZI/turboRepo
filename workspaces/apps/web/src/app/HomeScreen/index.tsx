@@ -6,15 +6,21 @@ import ServicesSelector from './ServicesSelector'
 import CategoryCard from 'ui/CategoryCard'
 import BusinessCard from 'ui/BusinessCard'
 import Carousel from 'ui/Carousel'
+import {AddToCart} from "ui";
 
-const HomeScreen = ({ categories, salons, categoriess, featured }) => {
+const HomeScreen = ({ categories, salons, categoriess, featured ,products}) => {
   const cardClicked = () => {
     console.log('123')
   }
 
+  const handleCounterChange = (count) => {
+    console.log('Counter changed:', count);
+    //here you can catch the value of count and save it in a global variable
+  };
+
   return (
     <>
-      <ServicesSelector categories={categories} />
+      {/*<ServicesSelector categories={categories} />*/}
       <div className={styles.mapContainer}>
         <Map salons={salons} />
         <div className="flex flex-col items-center justify-center bg-gray-100 p-4 pb-8 overflow-hidden">
@@ -50,6 +56,26 @@ const HomeScreen = ({ categories, salons, categoriess, featured }) => {
             </Carousel>
           </div>
         </div>
+
+        <div className="flex flex-col items-center justify-center  pt-[3rem]">
+          <h2 className="text-2xl font-serif font-bold ">HOT DEALS</h2>
+          <div className="w-full md:px-20">
+            <div className="flex md:flex-row flex-col  ">
+              {products.map((product) => (
+                  <AddToCart
+                      key={product.id}
+                      title={product.title}
+                      description={product.description}
+                      imageUrl={product.imageUrl}
+                      price={product.price}
+                      onCounterChange={handleCounterChange}
+                  />
+              ))}
+            </div>
+
+          </div>
+        </div>
+
 
         <div className="bg-[#f76566] text-white hover:bg-[#f75566] transition-colors duration-500 relative text-center p-6 cursor-pointer my-8">
           <h2 className="text-2xl font-bold mb-4">We have gift cards!</h2>

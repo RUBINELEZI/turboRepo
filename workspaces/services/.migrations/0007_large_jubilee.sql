@@ -1,0 +1,1 @@
+ALTER TABLE "salons" ALTER COLUMN "owner_email" SET DATA TYPE varchar(254);

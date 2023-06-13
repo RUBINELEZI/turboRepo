@@ -1,0 +1,1 @@
+ALTER TABLE "fetured_salons" RENAME TO "featured_salons";

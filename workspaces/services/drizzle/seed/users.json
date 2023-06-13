@@ -1,0 +1,98 @@
+[
+  {
+    "email": "god@mysalon.com",
+    "role": "god",
+    "firstName": "God",
+    "lastName": "MySalon",
+    "active": true,
+    "verified": true
+  },
+  {
+    "email": "admin@mysalon.com",
+    "role": "admin",
+    "firstName": "Admin",
+    "lastName": "MySalon",
+    "active": true,
+    "verified": true
+  },
+  {
+    "email": "owner1@lisbon.com",
+    "role": "owner",
+    "firstName": "owner1",
+    "lastName": "Lisbon Hair Salon",
+    "active": true,
+    "verified": true
+  },
+  {
+    "email": "owner2@oslo.com",
+    "role": "owner",
+    "firstName": "owner2",
+    "lastName": "Oslo Hair Salon",
+    "active": true,
+    "verified": true
+  },
+  {
+    "email": "owner3@berlin.com",
+    "role": "owner",
+    "firstName": "owner2",
+    "lastName": "Berlin Hair Salon",
+    "active": true,
+    "verified": true
+  },
+  {
+    "email": "employee1@lisbon.com",
+    "role": "employee",
+    "firstName": "employee1",
+    "lastName": "Lisbon Hair Salon",
+    "active": true,
+    "verified": true
+  },
+  {
+    "email": "employee2@lisbon.com",
+    "role": "employee",
+    "firstName": "employee2",
+    "lastName": "Lisbon Hair Salon",
+    "active": true,
+    "verified": true
+  },
+  {
+    "email": "employee3@oslo.com",
+    "role": "employee",
+    "firstName": "employee3",
+    "lastName": "Oslo Hair Salon",
+    "active": true,
+    "verified": true
+  },
+  {
+    "email": "employee4@berlin.com",
+    "role": "employee",
+    "firstName": "employee4",
+    "lastName": "Berlin Hair Salon",
+    "active": true,
+    "verified": true
+  },
+  {
+    "email": "customer1@gmail.com",
+    "role": "customer",
+    "firstName": "customer",
+    "lastName": "1",
+    "active": true,
+    "verified": true
+  },
+  {
+    "email": "customer2@gmail.com",
+    "role": "customer",
+    "firstName": "customer",
+    "lastName": "2",
+    "active": true,
+    "verified": true
+  },
+  {
+    "email": "customer3@gmail.com",
+    "role": "customer",
+    "firstName": "customer",
+    "lastName": "3",
+    "active": true,
+    "verified": true
+  }
+]

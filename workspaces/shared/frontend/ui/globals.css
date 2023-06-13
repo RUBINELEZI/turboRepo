@@ -1,0 +1,156 @@
+@import url('https://unpkg.com/leaflet@1.5.1/dist/leaflet.css');
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --color-black: rgb(0, 0, 0);
+  --color-white: rgb(255, 255, 255);
+  --color-primary: #fc3d75;
+  --color-primary-50: hsl(337.72, 100%, 97%);
+  --color-primary-100: hsl(337.72, 100%, 94%);
+  --color-primary-200: hsl(337.72, 100%, 90%);
+  --color-primary-300: hsl(337.72, 100%, 85%);
+  --color-primary-400: hsl(337.72, 100%, 75%);
+  --color-primary-500: #fc3d75;
+  --color-primary-600: hsl(337.72, 100%, 65%);
+  --color-primary-700: hsl(337.72, 100%, 60%);
+  --color-primary-800: hsl(337.72, 100%, 55%);
+  --color-primary-900: hsl(337.72, 100%, 20%);
+
+  --subnav-height: 75px;
+  --navbar-height: 75px;
+  --screen-height: calc(100vh - var(--navbar-height));
+}
+
+@media screen and (max-width: 600px) {
+  :root {
+    --navbar-height: 50px;
+  }
+}
+
+/* *:focus {
+  outline: 1px solid var(--color-primary-300);
+  outline-offset: 2px;
+} */
+
+body {
+  /* color: rgb(var(--foreground-rgb)); */
+  /* background: linear-gradient(to bottom, transparent, rgb(var(--background-end-rgb)))
+    rgb(var(--background-start-rgb)); */
+}
+
+button {
+  cursor: pointer;
+}
+
+a {
+  cursor: pointer;
+}
+
+select {
+  width: 100%;
+  padding: 0.4rem 0.5rem;
+  font-size: 1.2rem;
+}
+
+ul {
+  list-style-type: none;
+}
+
+/* table {
+  border: 1px solid #ccc;
+  border-collapse: collapse;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  table-layout: fixed;
+}
+
+table caption {
+  font-size: 1.5em;
+  margin: 0.5em 0 0.75em;
+}
+
+table tr {
+  background-color: #f8f8f8;
+  border: 1px solid #ddd;
+  padding: 0.35em;
+}
+
+table tr:nth-child(odd) {
+  background-color: white;
+}
+
+table th,
+table td {
+  padding: 0.625em;
+  text-align: center;
+}
+
+table th {
+  font-size: 0.85em;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+@media screen and (max-width: 600px) {
+  table {
+    border: 0;
+  }
+
+  table caption {
+    font-size: 1.3em;
+  }
+
+  table thead {
+    border: none;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+  }
+
+  table tr {
+    border-bottom: 3px solid #ddd;
+    display: block;
+    margin-bottom: 0.625em;
+  }
+
+  table td {
+    border-bottom: 1px solid #ddd;
+    display: block;
+    font-size: 0.8em;
+    text-align: right;
+  }
+
+  table td::before {
+    content: attr(data-label);
+    float: left;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+
+  table td:last-child {
+    border-bottom: 0;
+  }
+}
+*/
+
+table td,
+table th {
+  text-align: center;
+  font-size: 1rem;
+  padding: 1rem 0;
+}
+
+table th {
+  font-weight: bold !important;
+}

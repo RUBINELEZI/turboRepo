@@ -1,0 +1,62 @@
+@import url('https://unpkg.com/leaflet@1.5.1/dist/leaflet.css');
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --color-black: rgb(0, 0, 0);
+  --color-white: rgb(255, 255, 255);
+  --color-primary: #fc3d75;
+  --color-primary-50: hsl(337.72, 100%, 97%);
+  --color-primary-100: hsl(337.72, 100%, 94%);
+  --color-primary-200: hsl(337.72, 100%, 90%);
+  --color-primary-300: hsl(337.72, 100%, 85%);
+  --color-primary-400: hsl(337.72, 100%, 75%);
+  --color-primary-500: #fc3d75;
+  --color-primary-600: hsl(337.72, 100%, 65%);
+  --color-primary-700: hsl(337.72, 100%, 60%);
+  --color-primary-800: hsl(337.72, 100%, 55%);
+  --color-primary-900: hsl(337.72, 100%, 20%);
+
+  --subnav-height: 75px;
+  --navbar-height: 75px;
+}
+
+@media screen and (max-width: 600px) {
+  :root {
+    --navbar-height: 50px;
+  }
+}
+
+/* *:focus {
+  outline: 1px solid var(--color-primary-300);
+  outline-offset: 2px;
+} */
+
+body {
+  /* color: rgb(var(--foreground-rgb)); */
+  /* background: linear-gradient(to bottom, transparent, rgb(var(--background-end-rgb)))
+    rgb(var(--background-start-rgb)); */
+}
+
+button {
+  cursor: pointer;
+}
+
+a {
+  cursor: pointer;
+}
+
+select {
+  width: 100%;
+  padding: 0.4rem 0.5rem;
+  font-size: 1.2rem;
+}
+
+ul {
+  list-style-type: none;
+}

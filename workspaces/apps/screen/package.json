@@ -1,0 +1,10 @@
+{
+  "name": "screen",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "PORT=3003 next dev",
+    "build": "next build",
+    "start": "next start"
+  }
+}

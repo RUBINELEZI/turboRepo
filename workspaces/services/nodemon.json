@@ -1,0 +1,12 @@
+{
+  "watch": [
+    "src",
+    "../../shared/backend",
+    "../../shared/mixed",
+    "../../configs",
+    "../../emailer/emails"
+  ],
+  "ext": "ts,tsx,js,json",
+  "ignore": [],
+  "exec": "ts-node src/ --jsx"
+}

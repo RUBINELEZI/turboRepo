@@ -1,0 +1,26 @@
+[
+  {
+    "firstName": "Andre",
+    "lastName": "Padez",
+    "email": "andre@beautysolution.no",
+    "gender": "M"
+  },
+  {
+    "firstName": "Rubin",
+    "lastName": "Elezi",
+    "email": "rubin@beautysolution.no",
+    "gender": "M"
+  },
+  {
+    "firstName": "Claudio",
+    "lastName": "Mauricio",
+    "email": "mauri@beautysolution.no",
+    "gender": "M"
+  },
+  {
+    "firstName": "Mette",
+    "lastName": "Andreassen",
+    "email": "mette@beautysolution.no",
+    "gender": "F"
+  }
+]

@@ -1,0 +1,35 @@
+.homeScreen {
+  // background-color: teal;
+  display: flex;
+  height: 100%;
+  flex-flow: column;
+  justify-content: center;
+  gap: 10rem;
+
+  .largeButton {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    height: 15rem;
+    max-height: 15rem;
+    border-radius: 3rem;
+    background-color: antiquewhite;
+    width: 80%;
+    transition: max-height 0.5s;
+
+    h1 {
+      font-size: 3rem;
+    }
+  }
+
+  a {
+    text-decoration: none;
+  }
+
+  &.handicapMode {
+    .largeButton {
+      max-height: 10rem;
+    }
+  }
+}

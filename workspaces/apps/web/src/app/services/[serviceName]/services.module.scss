@@ -1,0 +1,16 @@
+.servicesScreen {
+  .salons {
+    display: grid;
+    gap: 2rem;
+
+    h1 {
+      font-size: 1.3em !important;
+      margin-bottom: 1rem;
+    }
+
+    button {
+      cursor: pointer;
+      max-width: 20rem;
+    }
+  }
+}

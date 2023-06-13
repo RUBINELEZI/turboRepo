@@ -1,0 +1,57 @@
+.main {
+  position: relative;
+
+  .logo {
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    margin-top: 5rem;
+    scale: 1.5;
+    transition: all 0.5s ease-out;
+  }
+
+  .mainGrid {
+    min-height: 100vh;
+    display: grid;
+    grid-template-rows: 0fr 1fr;
+    flex-direction: column;
+    transition: grid-template-rows 1s;
+
+    .spacer {
+      background-color: black;
+    }
+
+    .container {
+      background-color: teal;
+    }
+  }
+
+  &.handicapMode {
+    .mainGrid {
+      grid-template-rows: 1fr 1fr;
+    }
+
+    .handicapButton {
+      background-color: black;
+      svg {
+        fill: white;
+      }
+    }
+
+    .logo {
+      scale: 2.5;
+      margin-top: 25rem;
+      transition: all 1.5s ease-in;
+    }
+  }
+
+  .handicapButton {
+    bottom: 5rem;
+    right: 5rem;
+    width: 180px;
+    height: 180px;
+    position: absolute;
+    background-color: white;
+    border-radius: 40px;
+  }
+}

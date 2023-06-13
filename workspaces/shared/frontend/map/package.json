@@ -1,0 +1,11 @@
+{
+  "name": "map",
+  "version": "0.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "leaflet": "^1.9.4",
+    "leaflet-gesture-handling": "^1.2.2",
+    "react-leaflet": "^4.2.1"
+  }
+}

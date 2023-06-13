@@ -1,0 +1,11 @@
+{
+  "name": "business",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "PORT=3002 next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  }
+}

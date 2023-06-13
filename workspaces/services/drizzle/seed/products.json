@@ -1,0 +1,1505 @@
+[
+  {
+    "id": 1,
+    "brand": "kms",
+    "name": "Headremedy Dandruff Shampoo",
+    "description": "Sjampo som motvirker flass 300ml",
+    "category": "Shampoo",
+    "price": "216 kr",
+    "image": "kms-headremedy-dandruff-shampoo.jpeg"
+  },
+  {
+    "id": 2,
+    "brand": "redken",
+    "name": "Extreme Duo",
+    "description": "Shampoo & Conditioner 500 ml",
+    "category": "Hårpleiesett",
+    "price": "397 kr",
+    "image": "redken-extreme-duo.jpeg"
+  },
+  {
+    "id": 3,
+    "brand": "redken",
+    "name": "Volume Injection Shampoo",
+    "description": "Volumsjampo for tynt hår 300 ml",
+    "category": "Shampoo",
+    "price": "166 kr",
+    "image": "redken-volume-injection-shampoo.jpeg"
+  },
+  {
+    "id": 4,
+    "brand": "redken",
+    "name": "Extreme Shampoo",
+    "description": "Sjampo for skadet hår 500 ml",
+    "category": "Shampoo",
+    "price": "202 kr",
+    "image": "redken-extreme-shampoo.jpeg"
+  },
+  {
+    "id": 5,
+    "brand": "redken",
+    "name": "Scalp Dandruff Shampoo",
+    "description": "Populær sjampo mot flass 250 ml",
+    "category": "Shampoo",
+    "price": "202 kr",
+    "image": "redken-scalp-dandruff-shampoo.jpeg"
+  },
+  {
+    "id": 6,
+    "brand": "krastase",
+    "name": "Kérastase Specifique Bain Rich",
+    "description": "Hypoallergen shampoo for sensitiv hodebunn og tørt hår 250 ml",
+    "category": "Shampoo",
+    "price": "226 kr",
+    "image": "kerastase-specifique-bain-rich.jpeg"
+  },
+  {
+    "id": 7,
+    "brand": "krastase",
+    "name": "Kérastase Resistance Bain Force Architecte",
+    "description": "Shampoo, Gjenoppbyggende for slitt hår 250 ml",
+    "category": "Shampoo",
+    "price": "202 kr",
+    "image": "kerastase-resistance-bain-force-architecte.jpeg"
+  },
+  {
+    "id": 8,
+    "brand": "krastase",
+    "name": "Kérastase Specifique Bain",
+    "description": "Anti-Pelliculaire, Shampoo mot flass 250 ml",
+    "category": "Shampoo",
+    "price": "224 kr",
+    "image": "kerastase-specifique-bain.jpeg"
+  },
+  {
+    "id": 9,
+    "brand": "krastase",
+    "name": "Kérastase Curl Manifesto",
+    "description": "Bain Hydratation Douceur Shampoo",
+    "category": "Shampoo",
+    "price": "226 kr",
+    "image": "kerastase-curl-manifesto.jpeg"
+  },
+  {
+    "id": 10,
+    "brand": "krastase",
+    "name": "Kérastase Genesis Bain Hydra-Fortifiant",
+    "description": "Shampoo mot hårtap for tynt og/eller fett hår 250 ml",
+    "category": "Shampoo",
+    "price": "226 kr",
+    "image": "kerastase-genesis-bain-hydra-fortifiant.jpeg"
+  },
+  {
+    "id": 11,
+    "brand": "redken",
+    "name": "Redken All Soft Duo",
+    "description": "Shampoo & Conditioner 500 ml",
+    "category": "Hårpleiesett",
+    "price": "537 kr",
+    "image": "redken-redken-all-soft-duo.jpeg"
+  },
+  {
+    "id": 12,
+    "brand": "kms",
+    "name": "MoistRepair Shampoo",
+    "description": "Fuktighetsgivende Sjampo 750ml",
+    "category": "Shampoo",
+    "price": "440 kr",
+    "image": "kms-moistrepair-shampoo.jpeg"
+  },
+  {
+    "id": 14,
+    "brand": "joico",
+    "name": "Joifull Volumizing Shampoo 300",
+    "description": "300 ml",
+    "category": "Shampoo",
+    "price": "274 kr",
+    "image": "joico-joifull-volumizing-shampoo-300.jpeg"
+  },
+  {
+    "id": 15,
+    "brand": "krastase",
+    "name": "Kérastase Discipline Bain Fluidealiste",
+    "description": "Shampoo som gjør uregjerlig hår mykt og smidig 250 ml",
+    "category": "Shampoo",
+    "price": "226 kr",
+    "image": "kerastase-discipline-bain-fluidealiste.jpeg"
+  },
+  {
+    "id": 16,
+    "brand": "redken",
+    "name": "All Soft Shampoo",
+    "description": "300 ml",
+    "category": "Shampoo",
+    "price": "200 kr",
+    "image": "redken-all-soft-shampoo.jpeg"
+  },
+  {
+    "id": 17,
+    "brand": "grazette-of-sweden",
+    "name": "Dandruff Shampoo nr. 1",
+    "description": "Moty flass, kløe og tørr hodebunn 250 ml",
+    "category": "Shampoo",
+    "price": "219 kr",
+    "image": "neccin-dandruff-shampoo-nr.-1.jpeg"
+  },
+  {
+    "id": 18,
+    "brand": "krastase",
+    "name": "Kérastase Densifique Bain Densité",
+    "description": "Shampoo for hår som mangler fylde 250 ml",
+    "category": "Shampoo",
+    "price": "226 kr",
+    "image": "kerastase-densifique-bain-densite.jpeg"
+  },
+  {
+    "id": 19,
+    "brand": "krastase",
+    "name": "Kérastase Genesis Bain Nutri-Fortifiant",
+    "description": "Shampoo mot hårtap for tørt og skadet hår 250 ml",
+    "category": "Shampoo",
+    "price": "226 kr",
+    "image": "kerastase-genesis-bain-nutri-fortifiant.jpeg"
+  },
+  {
+    "id": 23,
+    "brand": "krastase",
+    "name": "Kérastase Nutritive Bain Magistral",
+    "description": "Shampoo for meget tørt hår 250 ml",
+    "category": "Shampoo",
+    "price": "303 kr",
+    "image": "kerastase-nutritive-bain-magistral.jpeg"
+  },
+  {
+    "id": 24,
+    "brand": "joico",
+    "name": "K-Pak Color Therapy Shampoo",
+    "description": "For å bevare farge og reparere skade 300 ml",
+    "category": "Shampoo",
+    "price": "264 kr",
+    "image": "joico-k-pak-color-therapy-shampoo.jpeg"
+  },
+  {
+    "id": 25,
+    "brand": "joico",
+    "name": "Hydrasplash Hydrating Shampoo 300",
+    "description": "300 ml",
+    "category": "Shampoo",
+    "price": "244 kr",
+    "image": "joico-hydrasplash-hydrating-shampoo-300.jpeg"
+  },
+  {
+    "id": 26,
+    "brand": "joico",
+    "name": "Blonde Life Violet Shampoo 300",
+    "description": "Lillasjampo for blondt hår 300 ml",
+    "category": "Shampoo",
+    "price": "300 kr",
+    "image": "joico-blonde-life-violet-shampoo-300.jpeg"
+  },
+  {
+    "id": 27,
+    "brand": "krastase",
+    "name": "Kérastase Blond Absolu Bain Ultra-Violet",
+    "description": "Lillashampoo som nøytraliserer gultoner 250 ml",
+    "category": "Shampoo",
+    "price": "226 kr",
+    "image": "kerastase-blond-absolu-bain-ultra-violet.jpeg"
+  },
+  {
+    "id": 28,
+    "brand": "wella",
+    "name": "Wella Professionals",
+    "description": "pump 1000ml,  pump till de gamla modellerna",
+    "category": "Shampoo",
+    "price": "65 kr",
+    "image": "wella-wella-professionals.jpeg"
+  },
+  {
+    "id": 29,
+    "brand": "kms",
+    "name": "AddVolume Shampoo",
+    "description": "750ml",
+    "category": "Shampoo",
+    "price": "425 kr",
+    "image": "kms-addvolume-shampoo.jpeg"
+  },
+  {
+    "id": 30,
+    "brand": "moroccanoil",
+    "name": "Hydrating Shampoo",
+    "description": "Hydration 250 ml",
+    "category": "Shampoo",
+    "price": "259 kr",
+    "image": "moroccanoil-hydrating-shampoo.jpeg"
+  },
+  {
+    "id": 31,
+    "brand": "wella",
+    "name": "SP Balance Scalp Shampoo",
+    "description": "250ml",
+    "category": "Shampoo",
+    "price": "166 kr",
+    "image": "wella-sp-balance-scalp-shampoo.jpeg"
+  },
+  {
+    "id": 32,
+    "brand": "redken",
+    "name": "Color Extend Magnetics Duo",
+    "description": "Shampoo & Conditioner 500 ml",
+    "category": "Hårpleiesett",
+    "price": "504 kr",
+    "image": "redken-color-extend-magnetics-duo.jpeg"
+  },
+  {
+    "id": 33,
+    "brand": "redken",
+    "name": "Color Extend Magnetics Shampoo",
+    "description": "500 ml",
+    "category": "Shampoo",
+    "price": "251 kr",
+    "image": "redken-color-extend-magnetics-shampoo.jpeg"
+  },
+  {
+    "id": 34,
+    "brand": "krastase",
+    "name": "Kérastase Blond Absolu Duo",
+    "description": "Schampoo & Conditioner",
+    "category": "Hårpleiesett",
+    "price": "502 kr",
+    "image": "kerastase-blond-absolu-duo.jpeg"
+  },
+  {
+    "id": 35,
+    "brand": "joico",
+    "name": "K-Pak To Repair Damage DUO",
+    "description": "Shampoo og balsam, 300 ml + 250 ml",
+    "category": "Shampoo",
+    "price": "496 kr",
+    "image": "joico-k-pak-to-repair-damage-duo.jpeg"
+  },
+  {
+    "id": 36,
+    "brand": "joico",
+    "name": "Defy Damage Protect Shampoo 300",
+    "description": "300 ml",
+    "category": "Shampoo",
+    "price": "244 kr",
+    "image": "joico-defy-damage-protect-shampoo-300.jpeg"
+  },
+  {
+    "id": 37,
+    "brand": "krastase",
+    "name": "Kérastase Blond Absolu Bain Lumière",
+    "description": "Shampoo for blondt hår 250 ml",
+    "category": "Shampoo",
+    "price": "265 kr",
+    "image": "kerastase-blond-absolu-bain-lumiere.jpeg"
+  },
+  {
+    "id": 38,
+    "brand": "olaplex",
+    "name": "No.4 Bond Maintenance Shampoo",
+    "description": "Reparerende og gjenoppbyggende for alle hårtyper 250 ml",
+    "category": "Shampoo",
+    "price": "305 kr",
+    "image": "olaplex-no.4-bond-maintenance-shampoo.jpeg"
+  },
+  {
+    "id": 39,
+    "brand": "krastase",
+    "name": "Kérastase Specifique Specifiqué Bain Divalent shampoo 250ML",
+    "description": "Shampoo",
+    "category": "Shampoo",
+    "price": "245 kr",
+    "image": "kerastase-specifique-specifique-bain-divalent-shampoo-250ml.jpeg"
+  },
+  {
+    "id": 40,
+    "brand": "redken",
+    "name": "Frizz Dismiss Duo",
+    "description": "Shampoo & Conditioner 500 ml",
+    "category": "Hårpleiesett",
+    "price": "489 kr",
+    "image": "redken-frizz-dismiss-duo.jpeg"
+  },
+  {
+    "id": 41,
+    "brand": "krastase",
+    "name": "Kérastase Chroma Absolu",
+    "description": "Bain Chroma Respect",
+    "category": "Shampoo",
+    "price": "265 kr",
+    "image": "kerastase-chroma-absolu.jpeg"
+  },
+  {
+    "id": 42,
+    "brand": "joico",
+    "name": "K-Pak Shampoo To Repair Damage",
+    "description": "300 ml",
+    "category": "Shampoo",
+    "price": "243 kr",
+    "image": "joico-k-pak-shampoo-to-repair-damage.jpeg"
+  },
+  {
+    "id": 43,
+    "brand": "moroccanoil",
+    "name": "Repair DUO",
+    "description": "Shampoo og Balsam 2x250ml",
+    "category": "Shampoo",
+    "price": "466 kr",
+    "image": "moisture-repair-duo.jpeg"
+  },
+  {
+    "id": 44,
+    "brand": "joico",
+    "name": "Moisture Recovery Shampoo",
+    "description": "300ml",
+    "category": "Shampoo",
+    "price": "244 kr",
+    "image": "joico-moisture-recovery-shampoo.jpeg"
+  },
+  {
+    "id": 46,
+    "brand": "joico",
+    "name": "Blonde Life Brightening Shampoo 300 Ml",
+    "description": "300 ml",
+    "category": "Shampoo",
+    "price": "294 kr",
+    "image": "joico-blonde-life-brightening-shampoo-300-ml.jpeg"
+  },
+  {
+    "id": 47,
+    "brand": "kms",
+    "name": "Headremedy Deep Cleanse Shampoo",
+    "description": "750ml",
+    "category": "Shampoo",
+    "price": "440 kr",
+    "image": "kms-headremedy-deep-cleanse-shampoo.jpeg"
+  },
+  {
+    "id": 48,
+    "brand": "redken",
+    "name": "Brews Daily Shampoo",
+    "description": "300ml",
+    "category": "Shampoo",
+    "price": "179 kr",
+    "image": "redken-brews-daily-shampoo.jpeg"
+  },
+  {
+    "id": 49,
+    "brand": "krastase",
+    "name": "Kérastase Densifique Bain Densité Homme",
+    "description": "Fyldegivende shampoo 250 ml",
+    "category": "Shampoo",
+    "price": "272 kr",
+    "image": "kerastase-densifique-bain-densite-homme.jpeg"
+  },
+  {
+    "id": 50,
+    "brand": "redken",
+    "name": "Extreme duo 300ml",
+    "description": "Shampoo & Conditioner 300 ml",
+    "category": "Shampoo",
+    "price": "325 kr",
+    "image": "redken-extreme-duo-300ml.jpeg"
+  },
+  {
+    "id": 51,
+    "brand": "krastase",
+    "name": "Kérastase Specifique Bain Prévention",
+    "description": "Shampoo for normalt/tynnende hår 250 ml",
+    "category": "Shampoo",
+    "price": "226 kr",
+    "image": "kerastase-specifique-bain-prevention.jpeg"
+  },
+  {
+    "id": 52,
+    "brand": "wella",
+    "name": "INVIGO Enrich Duo",
+    "description": "Shampoo & Conditioner 1000 ml",
+    "category": "Hårpleiesett",
+    "price": "563 kr",
+    "image": "wella-invigo-enrich-duo.jpeg"
+  },
+  {
+    "id": 55,
+    "brand": "wella",
+    "name": "INVIGO Volume Shampoo",
+    "description": "",
+    "category": "Shampoo",
+    "price": "253 kr",
+    "image": "wella-invigo-volume-shampoo.jpeg"
+  },
+  {
+    "id": 56,
+    "brand": "wella",
+    "name": "Professionals Invigo Enrich",
+    "description": "Dyptnærende shampoo for tørt/skadet hår 1000 ml",
+    "category": "Shampoo",
+    "price": "268 kr",
+    "image": "wella-professionals-invigo-enrich.jpeg"
+  },
+  {
+    "id": 57,
+    "brand": "sebastian",
+    "name": "til Sebastian 1000ml",
+    "description": "",
+    "category": "Shampoo",
+    "price": "19 kr",
+    "image": "pumpe-til-sebastian-1000ml.jpeg"
+  },
+  {
+    "id": 58,
+    "brand": "krastase",
+    "name": "Kérastase Elixir Ultime Bain",
+    "description": "Shampoo som gir glans og næring 250 ml",
+    "category": "Shampoo",
+    "price": "272 kr",
+    "image": "kerastase-elixir-ultime-bain.jpeg"
+  },
+  {
+    "id": 59,
+    "brand": "wella",
+    "name": "SP Clear Scalp Shampoo",
+    "description": "250ml",
+    "category": "Shampoo",
+    "price": "216 kr",
+    "image": "wella-sp-clear-scalp-shampoo.jpeg"
+  },
+  {
+    "id": 60,
+    "brand": "wella",
+    "name": "Professionals Pump",
+    "description": "Pump for new Wella Professional Bottles",
+    "category": "Shampoo",
+    "price": "65 kr",
+    "image": "wella-professionals-pump.jpeg"
+  },
+  {
+    "id": 61,
+    "brand": "krastase",
+    "name": "Kérastase Specifique",
+    "description": "Bain Vital Dermo-Calm Shampoo",
+    "category": "Shampoo",
+    "price": "359 kr",
+    "image": "kerastase-specifique.jpeg"
+  },
+  {
+    "id": 62,
+    "brand": "krastase",
+    "name": "Kérastase Specifique Specifiqué Bain Divalent shampoo 500ML",
+    "description": "Shampoo",
+    "category": "Shampoo",
+    "price": "455 kr",
+    "image": "kerastase-specifique-specifique-bain-divalent-shampoo-500ml.jpeg"
+  },
+  {
+    "id": 64,
+    "brand": "krastase",
+    "name": "Kérastase Blond Absolu K Blond Bain Lumiere",
+    "description": "Shampoo",
+    "category": "Shampoo",
+    "price": "455 kr",
+    "image": "kerastase-blond-absolu-k-blond-bain-lumiere.jpeg"
+  },
+  {
+    "id": 66,
+    "brand": "redken",
+    "name": "Amino Mint",
+    "description": "300 ml",
+    "category": "Shampoo",
+    "price": "200 kr",
+    "image": "redken-amino-mint.jpeg"
+  },
+  {
+    "id": 67,
+    "brand": "redken",
+    "name": "Color Extend Blondage Shampoo",
+    "description": "500 ml",
+    "category": "Shampoo",
+    "price": "177 kr",
+    "image": "redken-color-extend-blondage-shampoo.jpeg"
+  },
+  {
+    "id": 68,
+    "brand": "joico",
+    "name": "Weekend Hair Dry Shampoo 255",
+    "description": "255 ml",
+    "category": "Tørrshampoo",
+    "price": "340 kr",
+    "image": "joico-weekend-hair-dry-shampoo-255.jpeg"
+  },
+  {
+    "id": 69,
+    "brand": "system-professional",
+    "name": "Professional Pumpe til System Professional 1000 ml shampooflasker",
+    "description": "1 st",
+    "category": "Shampoo",
+    "price": "89 kr",
+    "image": "system-professional-pumpe-til-system-professional-1000-ml-shampooflasker.jpeg"
+  },
+  {
+    "id": 70,
+    "brand": "moroccanoil",
+    "name": "Moisture Repair Shampoo",
+    "description": "Til kjemisk behandlet og slitt hår 250 ml",
+    "category": "Shampoo",
+    "price": "259 kr",
+    "image": "moroccanoil-moisture-repair-shampoo.jpeg"
+  },
+  {
+    "id": 71,
+    "brand": "loral-paris",
+    "name": "L'Oréal Paris Elvital Hyaluron Plump Shampoo",
+    "description": "250 ml",
+    "category": "Shampoo",
+    "price": "39 kr",
+    "image": "l'oreal-paris-elvital-hyaluron-plump-shampoo.jpeg"
+  },
+  {
+    "id": 72,
+    "brand": "sebastian",
+    "name": "Penetraitt Shampoo",
+    "description": "250ml",
+    "category": "Shampoo",
+    "price": "191 kr",
+    "image": "sebastian-penetraitt-shampoo.jpeg"
+  },
+  {
+    "id": 74,
+    "brand": "renati",
+    "name": "Wax Shampoo 250ml",
+    "description": "Pre Wax Shampoo 250ml",
+    "category": "Shampoo",
+    "price": "54 kr",
+    "image": "pre-wax-shampoo-250ml.jpeg"
+  },
+  {
+    "id": 75,
+    "brand": "redken",
+    "name": "All Soft Mega Shampoo",
+    "description": "300 ml",
+    "category": "Shampoo",
+    "price": "182 kr",
+    "image": "redken-all-soft-mega-shampoo.jpeg"
+  },
+  {
+    "id": 76,
+    "brand": "krastase",
+    "name": "Kérastase Resistance Bain Extentioniste",
+    "description": "Reparerende shampoo som styrker håret 500 ml",
+    "category": "Shampoo",
+    "price": "426 kr",
+    "image": "kerastase-resistance-bain-extentioniste.jpeg"
+  },
+  {
+    "id": 77,
+    "brand": "redken",
+    "name": "Color Extend Blondage Duo",
+    "description": "Shampoo & Conditioner 500 ml",
+    "category": "Hårpleiesett",
+    "price": "381 kr",
+    "image": "redken-color-extend-blondage-duo.jpeg"
+  },
+  {
+    "id": 78,
+    "brand": "sebastian",
+    "name": "Hydre Shampoo",
+    "description": "Til tørt, krusete og kjemisk behandlet hår 1000 ml",
+    "category": "Shampoo",
+    "price": "470 kr",
+    "image": "sebastian-hydre-shampoo.jpeg"
+  },
+  {
+    "id": 79,
+    "brand": "moroccanoil",
+    "name": "Blonde Perfecting",
+    "description": "Purple Shampoo",
+    "category": "Shampoo",
+    "price": "259 kr",
+    "image": "moroccanoil-blonde-perfecting.jpeg"
+  },
+  {
+    "id": 80,
+    "brand": "moroccanoil",
+    "name": "Extra Volume Shampoo",
+    "description": "250ml",
+    "category": "Shampoo",
+    "price": "259 kr",
+    "image": "moroccanoil-extra-volume-shampoo.jpeg"
+  },
+  {
+    "id": 81,
+    "brand": "american-crew",
+    "name": "Crew 3 in 1",
+    "description": "Shampoo, Balsam, Bodywash 450ml",
+    "category": "Shampoo",
+    "price": "154 kr",
+    "image": "american-crew-3-in-1.jpeg"
+  },
+  {
+    "id": 84,
+    "brand": "john-frieda",
+    "name": "Frieda Go Blonder Lightening Shampoo",
+    "description": "250 ml",
+    "category": "Shampoo",
+    "price": "84 kr",
+    "image": "john-frieda-go-blonder-lightening-shampoo.jpeg"
+  },
+  {
+    "id": 85,
+    "brand": "krastase",
+    "name": "Kérastase Chronologiste Bain",
+    "description": "Shampoo 250 ml",
+    "category": "Shampoo",
+    "price": "317 kr",
+    "image": "kerastase-chronologiste-bain.jpeg"
+  },
+  {
+    "id": 86,
+    "brand": "olaplex",
+    "name": "No 4P Toning Shampoo",
+    "description": "250 ml",
+    "category": "Shampoo",
+    "price": "305 kr",
+    "image": "olaplex-no-4p-toning-shampoo.jpeg"
+  },
+  {
+    "id": 87,
+    "brand": "joico",
+    "name": "K-Pak Clarifying Shampoo 300ML",
+    "description": "300 ml",
+    "category": "Shampoo",
+    "price": "245 kr",
+    "image": "joico-k-pak-clarifying-shampoo-300ml.jpeg"
+  },
+  {
+    "id": 88,
+    "brand": "tigi-bed-head",
+    "name": "Bed Head Recovery Tweens",
+    "description": "Shampoo 750ml, Conditioner 750ml",
+    "category": "Hårpleiesett",
+    "price": "299 kr",
+    "image": "tigi-bed-head-recovery-tweens.jpeg"
+  },
+  {
+    "id": 89,
+    "brand": "krastase",
+    "name": "Kérastase Fresh Affair Dry Shampoo",
+    "description": "Tørrshampo 233 ml",
+    "category": "Shampoo",
+    "price": "459 kr",
+    "image": "kerastase-fresh-affair-dry-shampoo.jpeg"
+  },
+  {
+    "id": 90,
+    "brand": "krastase",
+    "name": "Kérastase Spésifique Dermo-Calm Bain",
+    "description": "Vital Shampoo, For sensibel hodebunn og normalt hår 500 ml",
+    "category": "Shampoo",
+    "price": "455 kr",
+    "image": "kerastase-spesifique-dermo-calm-bain.jpeg"
+  },
+  {
+    "id": 92,
+    "brand": "redken",
+    "name": "Extreme Length Duo",
+    "description": "Shampoo + Conditioner 300 ml",
+    "category": "Shampoo",
+    "price": "409 kr",
+    "image": "redken-extreme-length-duo.jpeg"
+  },
+  {
+    "id": 93,
+    "brand": "sebastian",
+    "name": "MAN Purifying Shampoo",
+    "description": "Renseshampoo som bekjemper flass 250 ml",
+    "category": "Shampoo",
+    "price": "142 kr",
+    "image": "seb-man-purifying-shampoo.jpeg"
+  },
+  {
+    "id": 94,
+    "brand": "redken",
+    "name": "Brews Mint Shampoo",
+    "description": "300ml",
+    "category": "Shampoo",
+    "price": "165 kr",
+    "image": "redken-brews-mint-shampoo.jpeg"
+  },
+  {
+    "id": 95,
+    "brand": "sebastian",
+    "name": "The Boss Thickening Shampoo",
+    "description": "1000 ml",
+    "category": "Shampoo",
+    "price": "225 kr",
+    "image": "sebastian-the-boss-thickening-shampoo.jpeg"
+  },
+  {
+    "id": 97,
+    "brand": "ida-warg",
+    "name": "Warg Silver Shampoo",
+    "description": "Vegansk shampoo som nøytraliserer gule og varme toner i blondt hår, 250ml",
+    "category": "Shampoo",
+    "price": "135 kr",
+    "image": "ida-warg-silver-shampoo.jpeg"
+  },
+  {
+    "id": 98,
+    "brand": "sebastian",
+    "name": "Volupt Shampoo",
+    "description": "1000 ml",
+    "category": "Shampoo",
+    "price": "503 kr",
+    "image": "sebastian-volupt-shampoo.jpeg"
+  },
+  {
+    "id": 99,
+    "brand": "redken",
+    "name": "Brews 3 in 1 Shampoo",
+    "description": "300ml",
+    "category": "Shampoo",
+    "price": "174 kr",
+    "image": "redken-brews-3-in-1-shampoo.jpeg"
+  },
+  {
+    "id": 100,
+    "brand": "krastase",
+    "name": "Kérastase Symbiose Bain Pureté Anti-Pelliculaire",
+    "description": "250 ml",
+    "category": "Shampoo",
+    "price": "303 kr",
+    "image": "kerastase-symbiose-bain-purete-anti-pelliculaire.jpeg"
+  },
+  {
+    "id": 102,
+    "brand": "fudge",
+    "name": "Clean Blonde Classic Violet Shampo",
+    "description": "Lillashampoo som nøytraliserer gultoner 250 ml",
+    "category": "Shampoo",
+    "price": "230 kr",
+    "image": "fudge-clean-blonde-classic-violet-shampo.jpeg"
+  },
+  {
+    "id": 103,
+    "brand": "redken",
+    "name": "ABC Shampoo",
+    "description": "300 ml",
+    "category": "Shampoo",
+    "price": "272 kr",
+    "image": "redken-abc-shampoo.jpeg"
+  },
+  {
+    "id": 104,
+    "brand": "kms",
+    "name": "ColorVitality Shampoo",
+    "description": "750ml",
+    "category": "Shampoo",
+    "price": "399 kr",
+    "image": "kms-colorvitality-shampoo.jpeg"
+  },
+  {
+    "id": 106,
+    "brand": "wella",
+    "name": "SP Color Save Shampoo",
+    "description": "250ml",
+    "category": "Shampoo",
+    "price": "167 kr",
+    "image": "wella-sp-color-save-shampoo.jpeg"
+  },
+  {
+    "id": 107,
+    "brand": "john-frieda",
+    "name": "Frieda Volume Lift Shampoo",
+    "description": "250 ml",
+    "category": "Shampoo",
+    "price": "84 kr",
+    "image": "john-frieda-volume-lift-shampoo.jpeg"
+  },
+  {
+    "id": 108,
+    "brand": "krastase",
+    "name": "Kérastase Symbiose Bain Creme Anti-Pelliculaire",
+    "description": "250 ml",
+    "category": "Shampoo",
+    "price": "303 kr",
+    "image": "kerastase-symbiose-bain-creme-anti-pelliculaire.jpeg"
+  },
+  {
+    "id": 109,
+    "brand": "american-crew",
+    "name": "Crew Daily Deep Moisturizing Shampoo",
+    "description": "250 ml",
+    "category": "Shampoo",
+    "price": "134 kr",
+    "image": "american-crew-daily-deep-moisturizing-shampoo.jpeg"
+  },
+  {
+    "id": 110,
+    "brand": "wella",
+    "name": "SP Hydrate Shampoo 250ml",
+    "description": "250ml",
+    "category": "Shampoo",
+    "price": "200 kr",
+    "image": "wella-sp-hydrate-shampoo-250ml.jpeg"
+  },
+  {
+    "id": 111,
+    "brand": "redken",
+    "name": "Hair Cleansing Cream",
+    "description": "250 ml",
+    "category": "Shampoo",
+    "price": "259 kr",
+    "image": "redken-hair-cleansing-cream.jpeg"
+  },
+  {
+    "id": 112,
+    "brand": "john-frieda",
+    "name": "Frieda Dream Curls Shampoo",
+    "description": "250 ml",
+    "category": "Shampoo",
+    "price": "84 kr",
+    "image": "john-frieda-dream-curls-shampoo.jpeg"
+  },
+  {
+    "id": 113,
+    "brand": "sebastian",
+    "name": "Dark Oil Duo",
+    "description": "Shampoo & Conditioner 1000 ml",
+    "category": "Hårpleiesett",
+    "price": "803 kr",
+    "image": "sebastian-dark-oil-duo.jpeg"
+  },
+  {
+    "id": 114,
+    "brand": "tigi-bed-head",
+    "name": "Bed Head For Men Clean Up",
+    "description": "shampoo/balsam 2x750ml",
+    "category": "Hårpleiesett",
+    "price": "299 kr",
+    "image": "tigi-bed-head-for-men-clean-up.jpeg"
+  },
+  {
+    "id": 115,
+    "brand": "redken",
+    "name": "Frizz Dismiss Shampoo",
+    "description": "500 ml",
+    "category": "Shampoo",
+    "price": "251 kr",
+    "image": "redken-frizz-dismiss-shampoo.jpeg"
+  },
+  {
+    "id": 116,
+    "brand": "redken",
+    "name": "Frizz Dismiss Schampoo",
+    "description": "300 ml",
+    "category": "Shampoo",
+    "price": "249 kr",
+    "image": "redken-frizz-dismiss-schampoo.jpeg"
+  },
+  {
+    "id": 117,
+    "brand": "redken",
+    "name": "Extreme Length Shampoo",
+    "description": "300 ml",
+    "category": "Shampoo",
+    "price": "178 kr",
+    "image": "redken-extreme-length-shampoo.jpeg"
+  },
+  {
+    "id": 118,
+    "brand": "system-professional",
+    "name": "Professional Balance Shampoo",
+    "description": "1000 ml",
+    "category": "Shampoo",
+    "price": "489 kr",
+    "image": "system-professional-balance-shampoo.jpeg"
+  },
+  {
+    "id": 120,
+    "brand": "oway",
+    "name": "Frequent Use Hair & Scalp Bath",
+    "description": "240 ml",
+    "category": "Shampoo",
+    "price": "224 kr",
+    "image": "oway-frequent-use-hair-and-scalp-bath.jpeg"
+  },
+  {
+    "id": 121,
+    "brand": "wella",
+    "name": "SP Volumize Shampoo",
+    "description": "250ml",
+    "category": "Shampoo",
+    "price": "259 kr",
+    "image": "wella-sp-volumize-shampoo.jpeg"
+  },
+  {
+    "id": 123,
+    "brand": "tigi-bed-head",
+    "name": "Bed Head Oh Bee Hive Dry Shampoo",
+    "description": "238 ml",
+    "category": "Shampoo",
+    "price": "179 kr",
+    "image": "tigi-bed-head-oh-bee-hive-dry-shampoo.jpeg"
+  },
+  {
+    "id": 124,
+    "brand": "redken",
+    "name": "Extreme Length Trio",
+    "description": "Shampoo + Conditioner 300 ml + Leave In 150ml",
+    "category": "Shampoo",
+    "price": "653 kr",
+    "image": "redken-extreme-length-trio.jpeg"
+  },
+  {
+    "id": 125,
+    "brand": "tigi-bed-head",
+    "name": "Bed Head RE-Energize",
+    "description": "shampoo/balsam 2x750ml",
+    "category": "Shampoo",
+    "price": "299 kr",
+    "image": "tigi-bed-head-re-energize.jpeg"
+  },
+  {
+    "id": 126,
+    "brand": "matrix",
+    "name": "Scalp Thérapié",
+    "description": "Nor. Clean Reset Shampoo",
+    "category": "Shampoo",
+    "price": "162 kr",
+    "image": "matrix-scalp-therapie.jpeg"
+  },
+  {
+    "id": 128,
+    "brand": "olaplex",
+    "name": "No. 4C Bond Maintenance Clarifying Shampoo",
+    "description": "250 ml",
+    "category": "Shampoo",
+    "price": "305 kr",
+    "image": "olaplex-no.-4c-bond-maintenance-clarifying-shampoo.jpeg"
+  },
+  {
+    "id": 129,
+    "brand": "john-frieda",
+    "name": "Frieda Miraculous Recovery Shampoo",
+    "description": "",
+    "category": "Shampoo",
+    "price": "99 kr",
+    "image": "john-frieda-miraculous-recovery-shampoo.jpeg"
+  },
+  {
+    "id": 130,
+    "brand": "wella",
+    "name": "SP Luxe Oil Keratin Protect Shampo",
+    "description": "200ml",
+    "category": "Shampoo",
+    "price": "172 kr",
+    "image": "wella-sp-luxe-oil-keratin-protect-shampo.jpeg"
+  },
+  {
+    "id": 131,
+    "brand": "rudolph-care",
+    "name": "Care Herbal Mint Shampoo",
+    "description": "Økologisk Shampoo, 390 ml",
+    "category": "Shampoo",
+    "price": "288 kr",
+    "image": "rudolph-care-herbal-mint-shampoo.jpeg"
+  },
+  {
+    "id": 132,
+    "brand": "krastase",
+    "name": "Kérastase Soleil Bain Aprés",
+    "description": "Shampoo",
+    "category": "Shampoo",
+    "price": "244 kr",
+    "image": "kerastase-soleil-bain-apres.jpeg"
+  },
+  {
+    "id": 133,
+    "brand": "grazette-of-sweden",
+    "name": "Shampoo Dandruff Treatment 1",
+    "description": "100ml",
+    "category": "Shampoo",
+    "price": "105 kr",
+    "image": "neccin-shampoo-dandruff-treatment-1.jpeg"
+  },
+  {
+    "id": 134,
+    "brand": "wella",
+    "name": "SP Clear Scalp Shampeeling",
+    "description": "150ml",
+    "category": "Shampoo",
+    "price": "240 kr",
+    "image": "wella-sp-clear-scalp-shampeeling.jpeg"
+  },
+  {
+    "id": 135,
+    "brand": "loral-professionnel",
+    "name": "L'Oréal Professionnel Serie Expert Metal DX Shampoo",
+    "description": "300 ml",
+    "category": "Shampoo",
+    "price": "274 kr",
+    "image": "l'oreal-professionnel-serie-expert-metal-dx-shampoo.jpeg"
+  },
+  {
+    "id": 138,
+    "brand": "moroccanoil",
+    "name": "Smoothing Schampoo",
+    "description": "250 ml",
+    "category": "Shampoo",
+    "price": "279 kr",
+    "image": "moroccanoil-smoothing-schampoo.jpeg"
+  },
+  {
+    "id": 139,
+    "brand": "redken",
+    "name": "All Soft Mega Curls",
+    "description": "Shampoo",
+    "category": "Hårkur",
+    "price": "269 kr",
+    "image": "redken-all-soft-mega-curls.jpeg"
+  },
+  {
+    "id": 140,
+    "brand": "lwengrip",
+    "name": "Löwengrip Level Up - Volumizing Shampoo",
+    "description": "250 ml",
+    "category": "Shampoo",
+    "price": "125 kr",
+    "image": "lowengrip-level-up-volumizing-shampoo.jpeg"
+  },
+  {
+    "id": 141,
+    "brand": "john-frieda",
+    "name": "Frieda Highlight Activating Moisturising Shampoo",
+    "description": "",
+    "category": "Shampoo",
+    "price": "84 kr",
+    "image": "john-frieda-highlight-activating-moisturising-shampoo.jpeg"
+  },
+  {
+    "id": 142,
+    "brand": "wella",
+    "name": "Professionals Invigo Volume",
+    "description": "Shampoo 250ml",
+    "category": "Shampoo",
+    "price": "139 kr",
+    "image": "wella-professionals-invigo-volume.jpeg"
+  },
+  {
+    "id": 143,
+    "brand": "wella",
+    "name": "Professionals Fusion Shampoo",
+    "description": "Reparerende shampoo for skadet hår 250 ml",
+    "category": "Shampoo",
+    "price": "204 kr",
+    "image": "wella-professionals-fusion-shampoo.jpeg"
+  },
+  {
+    "id": 145,
+    "brand": "wella",
+    "name": "Invigo Pure Shampoo",
+    "description": "1000 ml",
+    "category": "Shampoo",
+    "price": "285 kr",
+    "image": "wella-invigo-pure-shampoo.jpeg"
+  },
+  {
+    "id": 146,
+    "brand": "fudge",
+    "name": "Clean Blonde Everyday Duo",
+    "description": "2 x 250 ml",
+    "category": "Hårpleiesett",
+    "price": "291 kr",
+    "image": "fudge-clean-blonde-everyday-duo.jpeg"
+  },
+  {
+    "id": 148,
+    "brand": "redken",
+    "name": "Color Extend Brownlights Shampoo",
+    "description": "300 ml",
+    "category": "Shampoo",
+    "price": "214 kr",
+    "image": "redken-color-extend-brownlights-shampoo.jpeg"
+  },
+  {
+    "id": 150,
+    "brand": "tigi-bed-head",
+    "name": "Bed Head B For Men Daily Shampoo",
+    "description": "",
+    "category": "Shampoo",
+    "price": "295 kr",
+    "image": "tigi-bed-head-b-for-men-daily-shampoo.jpeg"
+  },
+  {
+    "id": 151,
+    "brand": "nioxin",
+    "name": "System 2 Cleanser",
+    "description": "",
+    "category": "Shampoo",
+    "price": "376 kr",
+    "image": "nioxin-system-2-cleanser.jpeg"
+  },
+  {
+    "id": 152,
+    "brand": "loral-professionnel",
+    "name": "L'Oréal Professionnel Serie Expert Silver Shampoo",
+    "description": "300 ml",
+    "category": "Shampoo",
+    "price": "174 kr",
+    "image": "l'oreal-professionnel-serie-expert-silver-shampoo.jpeg"
+  },
+  {
+    "id": 153,
+    "brand": "grazette-of-sweden",
+    "name": "Shampoo Sensitive Balance nr. 4",
+    "description": "For sensitiv hodebunn 250 ml",
+    "category": "Shampoo",
+    "price": "175 kr",
+    "image": "neccin-shampoo-sensitive-balance-nr.-4.jpeg"
+  },
+  {
+    "id": 156,
+    "brand": "krastase",
+    "name": "Kérastase Blond Absolu Bain Cicaextreme",
+    "description": "Kremhårbad og shampoo for blond og bleket hår 250 ml",
+    "category": "Shampoo",
+    "price": "269 kr",
+    "image": "kerastase-blond-absolu-bain-cicaextreme.jpeg"
+  },
+  {
+    "id": 158,
+    "brand": "loral-paris",
+    "name": "L'Oréal Paris Elvital Color Vive Silver Shampoo",
+    "description": "",
+    "category": "Shampoo",
+    "price": "79 kr",
+    "image": "l'oreal-paris-elvital-color-vive-silver-shampoo.jpeg"
+  },
+  {
+    "id": 159,
+    "brand": "rudolph-care",
+    "name": "Care Blossom Shampoo",
+    "description": "Økologisk Shampoo, 390 ml",
+    "category": "Shampoo",
+    "price": "385 kr",
+    "image": "rudolph-care-blossom-shampoo.jpeg"
+  },
+  {
+    "id": 160,
+    "brand": "urtekram",
+    "name": "Intense Moisture Shampoo",
+    "description": "Wild Lemongrass",
+    "category": "Shampoo",
+    "price": "99 kr",
+    "image": "urtekram-intense-moisture-shampoo.jpeg"
+  },
+  {
+    "id": 161,
+    "brand": "loral-professionnel",
+    "name": "L'Oréal Professionnel Serie Expert Sensi Balance Shampoo",
+    "description": "300 ml",
+    "category": "Shampoo",
+    "price": "189 kr",
+    "image": "l'oreal-professionnel-serie-expert-sensi-balance-shampoo.jpeg"
+  },
+  {
+    "id": 162,
+    "brand": "loral-professionnel",
+    "name": "L'Oréal Professionnel Serie Expert Absolute Repair Gold Shampoo",
+    "description": "300 ml",
+    "category": "Shampoo",
+    "price": "215 kr",
+    "image": "l'oreal-professionnel-serie-expert-absolute-repair-gold-shampoo.jpeg"
+  },
+  {
+    "id": 163,
+    "brand": "paul-mitchell",
+    "name": "Mitchell Tea Tree",
+    "description": "Special Shampoo",
+    "category": "Shampoo",
+    "price": "254 kr",
+    "image": "paul-mitchell-tea-tree.jpeg"
+  },
+  {
+    "id": 166,
+    "brand": "matrix",
+    "name": "Biolage",
+    "description": "Volumebloom Shampoo",
+    "category": "Shampoo",
+    "price": "195 kr",
+    "image": "matrix-biolage.jpeg"
+  },
+  {
+    "id": 168,
+    "brand": "goldwell",
+    "name": "Dualsenses Rich Repair",
+    "description": "Restoring Shampoo",
+    "category": "Shampoo",
+    "price": "395 kr",
+    "image": "goldwell-dualsenses-rich-repair.jpeg"
+  },
+  {
+    "id": 173,
+    "brand": "olaplex",
+    "name": "Bond Maintenance Shampoo No4 + Pump",
+    "description": "",
+    "category": "Shampoo",
+    "price": "373 kr",
+    "image": "olaplex-bond-maintenance-shampoo-no4-+-pump.jpeg"
+  },
+  {
+    "id": 175,
+    "brand": "sebastian",
+    "name": "Dark Oil",
+    "description": "Xmas Box",
+    "category": "Shampoo",
+    "price": "499 kr",
+    "image": "sebastian-dark-oil.jpeg"
+  },
+  {
+    "id": 178,
+    "brand": "oway",
+    "name": "Moisturizing Hair Bath",
+    "description": "240 ml",
+    "category": "Shampoo",
+    "price": "299 kr",
+    "image": "oway-moisturizing-hair-bath.jpeg"
+  },
+  {
+    "id": 179,
+    "brand": "oway",
+    "name": "Volumizing Hair Bath",
+    "description": "240 ml",
+    "category": "Shampoo",
+    "price": "299 kr",
+    "image": "oway-volumizing-hair-bath.jpeg"
+  },
+  {
+    "id": 180,
+    "brand": "sebastian",
+    "name": "Trilliance Shampoo",
+    "description": "For alle hårtyper 1000 ml",
+    "category": "Shampoo",
+    "price": "489 kr",
+    "image": "sebastian-trilliance-shampoo.jpeg"
+  },
+  {
+    "id": 182,
+    "brand": "nioxin",
+    "name": "Loyalty Kit System 2",
+    "description": "Mot håravfall naturlig hår , 300ml + 300ml + 100ml",
+    "category": "Hårpleiesett",
+    "price": "407 kr",
+    "image": "nioxin-loyalty-kit-system-2.jpeg"
+  },
+  {
+    "id": 183,
+    "brand": "american-crew",
+    "name": "Crew 3in1 Tea Tree",
+    "description": "shampoo, balsam og dusjgele 450ml",
+    "category": "Shampoo",
+    "price": "170 kr",
+    "image": "american-crew-3in1-tea-tree.jpeg"
+  },
+  {
+    "id": 184,
+    "brand": "nioxin",
+    "name": "System 2 Cleanser Shampoo",
+    "description": "Mot håravfall 300 ml",
+    "category": "Shampoo",
+    "price": "184 kr",
+    "image": "nioxin-system-2-cleanser-shampoo.jpeg"
+  },
+  {
+    "id": 185,
+    "brand": "meraki",
+    "name": "Northern Dawn Shampoo",
+    "description": "Økologisk og nærende shampoo med aloe vera, gulrot og persilleekstrakt, 490ml",
+    "category": "Shampoo",
+    "price": "244 kr",
+    "image": "meraki-northern-dawn-shampoo.jpeg"
+  },
+  {
+    "id": 186,
+    "brand": "loccitane",
+    "name": "L'Occitane Aromachologie Intensive Repair Shampoo",
+    "description": "Shampoo uten silikoner som reparerer og styrker tørt og skadet hår. 300ml",
+    "category": "Shampoo",
+    "price": "219 kr",
+    "image": "l'occitane-aromachologie-intensive-repair-shampoo.jpeg"
+  },
+  {
+    "id": 187,
+    "brand": "matrix",
+    "name": "Total Results Brass Off Color Obsessed",
+    "description": "Shampoo",
+    "category": "Shampoo",
+    "price": "141 kr",
+    "image": "matrix-total-results-brass-off-color-obsessed.jpeg"
+  },
+  {
+    "id": 188,
+    "brand": "nioxin",
+    "name": "System 3 Cleanser",
+    "description": "",
+    "category": "Shampoo",
+    "price": "380 kr",
+    "image": "nioxin-system-3-cleanser.jpeg"
+  },
+  {
+    "id": 189,
+    "brand": "nioxin",
+    "name": "System 1 Cleanser",
+    "description": "",
+    "category": "Shampoo",
+    "price": "354 kr",
+    "image": "nioxin-system-1-cleanser.jpeg"
+  },
+  {
+    "id": 191,
+    "brand": "redken",
+    "name": "Color Extend Graydiant Shampoo",
+    "description": "300 ml",
+    "category": "Shampoo",
+    "price": "259 kr",
+    "image": "redken-color-extend-graydiant-shampoo.jpeg"
+  },
+  {
+    "id": 192,
+    "brand": "molton-brown",
+    "name": "Brown Indian Cress Purifying Shampoo",
+    "description": "Næringsrik shampoo som renser håret, med lukt av sjasmin og kaprifol. 300 ml",
+    "category": "Shampoo",
+    "price": "235 kr",
+    "image": "molton-brown-indian-cress-purifying-shampoo.jpeg"
+  },
+  {
+    "id": 193,
+    "brand": "lwengrip",
+    "name": "Löwengrip Anti-Dandruff Shampoo",
+    "description": "Sensitive 250ml",
+    "category": "Shampoo",
+    "price": "125 kr",
+    "image": "lowengrip-anti-dandruff-shampoo.jpeg"
+  },
+  {
+    "id": 194,
+    "brand": "krastase",
+    "name": "Kérastase Genesis Homme Bain de Force Quotiden",
+    "description": "250 ml",
+    "category": "Shampoo",
+    "price": "320 kr",
+    "image": "kerastase-genesis-homme-bain-de-force-quotiden.jpeg"
+  },
+  {
+    "id": 195,
+    "brand": "olaplex",
+    "name": "Best Of Olaplex",
+    "description": "",
+    "category": "Hårpleiesett",
+    "price": "1221 kr",
+    "image": "olaplex-best-of-olaplex.jpeg"
+  },
+  {
+    "id": 196,
+    "brand": "alterna",
+    "name": "Caviar Multiplying Volume Shampoo",
+    "description": "250ml",
+    "category": "Shampoo",
+    "price": "390 kr",
+    "image": "alterna-caviar-multiplying-volume-shampoo.jpeg"
+  },
+  {
+    "id": 197,
+    "brand": "syoss",
+    "name": "Keratin Schampo",
+    "description": "440 ml",
+    "category": "Shampoo",
+    "price": "59 kr",
+    "image": "syoss-keratin-schampo.jpeg"
+  },
+  {
+    "id": 199,
+    "brand": "american-crew",
+    "name": "Crew Daily Cleansing Shampoo",
+    "description": "Hair & Body",
+    "category": "Shampoo",
+    "price": "128 kr",
+    "image": "american-crew-daily-cleansing-shampoo.jpeg"
+  },
+  {
+    "id": 200,
+    "brand": "john-frieda",
+    "name": "Frieda Color Protecting Moisturising Shampoo",
+    "description": "",
+    "category": "Shampoo",
+    "price": "84 kr",
+    "image": "john-frieda-color-protecting-moisturising-shampoo.jpeg"
+  },
+  {
+    "id": 204,
+    "brand": "amika",
+    "name": "Hydro Rush Intense Moisture Shampoo",
+    "description": "275 ml",
+    "category": "Shampoo",
+    "price": "299 kr",
+    "image": "amika-hydro-rush-intense-moisture-shampoo.jpeg"
+  },
+  {
+    "id": 205,
+    "brand": "nioxin",
+    "name": "System 4 Cleanser",
+    "description": "",
+    "category": "Shampoo",
+    "price": "347 kr",
+    "image": "nioxin-system-4-cleanser.jpeg"
+  },
+  {
+    "id": 207,
+    "brand": "loccitane",
+    "name": "L'Occitane Aromachologie Purifying Freshness Shampoo",
+    "description": "Silikonfri shampoo som bidrar til å gjenopprette balansen i hodebunnen. 300ml",
+    "category": "Shampoo",
+    "price": "219 kr",
+    "image": "l'occitane-aromachologie-purifying-freshness-shampoo.jpeg"
+  },
+  {
+    "id": 208,
+    "brand": "krastase",
+    "name": "Kérastase Fusio Purifying Scrub",
+    "description": "Hårskrubb for fet hodebunn/hår, mot flass 250 ml",
+    "category": "Shampoo",
+    "price": "473 kr",
+    "image": "kerastase-fusio-purifying-scrub.jpeg"
+  },
+  {
+    "id": 209,
+    "brand": "krastase",
+    "name": "Kérastase Genesis Treatment",
+    "description": "Anti hair-fall",
+    "category": "Hårpleiesett",
+    "price": "694 kr",
+    "image": "kerastase-genesis-treatment.jpeg"
+  },
+  {
+    "id": 211,
+    "brand": "oway",
+    "name": "Silk and Glow Hair Bath",
+    "description": "240 ml",
+    "category": "Shampoo",
+    "price": "224 kr",
+    "image": "oway-silk-and-glow-hair-bath.jpeg"
+  },
+  {
+    "id": 212,
+    "brand": "loral-professionnel",
+    "name": "L'Oréal Professionnel Serie Expert Vitamino Shampoo",
+    "description": "300 ml",
+    "category": "Shampoo",
+    "price": "180 kr",
+    "image": "l'oreal-professionnel-serie-expert-vitamino-shampoo.jpeg"
+  }
+]

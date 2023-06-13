@@ -1,0 +1,1 @@
+ALTER TABLE "featured_salons" RENAME COLUMN "order" TO "rank";

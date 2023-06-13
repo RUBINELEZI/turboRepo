@@ -1,0 +1,58 @@
+{
+  "Hair": [
+    "Ladies' Haircuts",
+    "Blow Dry",
+    "Ladies' Hair Colouring & Highlights",
+    "Ladies' Brazilian Blow Dry",
+    "Balayage & Ombre",
+    "Men's Haircut"
+  ],
+  "Hair Removal": [
+    "Ladies' Waxing",
+    "Hollywood Waxing",
+    "Brazilian Waxing",
+    "Facial Threading",
+    "Men's Waxing",
+    "Laser Hair Removal"
+  ],
+  "Massage": [
+    "Deep Tissue Massage",
+    "Swedish Massage",
+    "Therapeutic Massage",
+    "Thai Massage",
+    "Aromatherapy Massage",
+    "Hot Stone Massage"
+  ],
+  "Nails": [
+    "Pedicure",
+    "Manicure",
+    "Nail or Gel Polish Removal",
+    "Gel Nails Manicure",
+    "Gel Nails Pedicure",
+    "Acrylic, Hard Gel & Nail Extensions"
+  ],
+  "Face": [
+    "Classic Facials",
+    "Eyelash Extensions",
+    "Eyebrow and Eyelash Tinting",
+    "Eyebrow Threading",
+    "Eyebrow Waxing",
+    "Definition Brows"
+  ],
+  "Body": [
+    "Spray Tanning and Sunless Tanning",
+    "Body Exfoliation Treatments",
+    "Body Wraps",
+    "Colonic Hydrotherapy",
+    "Cryolipolysis",
+    "Cellulite Trataments"
+  ],
+  "Men's": [
+    "Men's Haircut",
+    "Beard trims and shaves",
+    "Men's Hair Colouring",
+    "Men's Brazilian Blow Dry",
+    "Men's Facials",
+    "Men's Waxing"
+  ]
+}

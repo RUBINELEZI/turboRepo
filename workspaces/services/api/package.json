@@ -1,0 +1,12 @@
+{
+  "name": "api",
+  "version": "0.0.0",
+  "main": "src/index.ts",
+  "license": "MIT",
+  "scripts": {
+    "build": "rimraf ./.build && tsc",
+    "start": "yarn -W start --filter=api",
+    "run": "NODE_PATH=src/ NODE_PATH=src/ ts-node src/",
+    "dev": "cross-env PORT=8001 NODE_PATH=src/ nodemon --config ../nodemon.json"
+  }
+}

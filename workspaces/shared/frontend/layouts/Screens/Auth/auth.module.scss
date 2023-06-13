@@ -1,0 +1,20 @@
+.authLayout {
+  display: flex;
+  justify-content: center;
+  margin-top: 2rem;
+
+  .form {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+
+  select {
+    margin-top: 1rem;
+  }
+
+  .twoColumns {
+    display: flex;
+    justify-content: space-between;
+  }
+}

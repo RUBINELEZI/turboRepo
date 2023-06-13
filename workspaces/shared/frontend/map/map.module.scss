@@ -1,0 +1,44 @@
+@import url('https://unpkg.com/leaflet@1.5.1/dist/leaflet.css');
+
+.mapOverlay {
+  position: relative;
+  top: 1rem;
+
+  .permissionButton {
+    right: 1rem;
+    z-index: 410;
+    position: absolute;
+    justify-content: flex-end;
+
+    button {
+      font-size: large;
+      padding: 0.5rem 1rem;
+    }
+  }
+
+  .lisbonButton {
+    right: 1rem;
+    margin-top: 3rem;
+    z-index: 410;
+    position: absolute;
+    justify-content: flex-end;
+
+    button {
+      font-size: large;
+      padding: 0.2rem 1rem;
+    }
+  }
+
+  .bergenButton {
+    right: 1rem;
+    margin-top: 6rem;
+    z-index: 410;
+    position: absolute;
+    justify-content: flex-end;
+
+    button {
+      font-size: large;
+      padding: 0.2rem 1rem;
+    }
+  }
+}

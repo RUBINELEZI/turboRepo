@@ -1,0 +1,53 @@
+.strooksDataTable table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+@media (max-width: 576px) {
+  .strooksDataTable thead {
+    display: none;
+  }
+
+  .strooksDataTable thead th[data-sort]::after {
+    padding-left: 1rem;
+    font-size: 1.2rem;
+    font-weight: 100;
+    content: '\21D5';
+  }
+
+  .strooksDataTable,
+  .strooksDataTable tbody,
+  .strooksDataTable tr,
+  .strooksDataTable td,
+  .strooksDataTable hr {
+    display: block;
+  }
+
+  .strooksDataTable tr {
+    /* display: flex;
+    align-items: center; */
+    padding: 0.5em 0;
+  }
+
+  .strooksDataTable tr:last-child {
+    border-bottom: none;
+  }
+
+  .strooksDataTable td {
+    text-align: right;
+    padding-right: 1em;
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .strooksDataTable td::before {
+    content: attr(data-label);
+    /* position: absolute; */
+    left: 0;
+    padding: 0.5em 1em;
+    width: 35%;
+    /* font-weight: bold; */
+  }
+}

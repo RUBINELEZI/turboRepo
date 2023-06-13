@@ -1,0 +1,71 @@
+.main {
+  height: 100%;
+  display: grid;
+  grid-template-rows: 2fr 15fr;
+  // background-color: teal;
+  transition: grid-template-rows 1.5s;
+
+  &.handicapMode {
+    grid-template-rows: 0fr 15fr;
+
+    .productsContainer {
+      max-height: 50vh;
+    }
+  }
+
+  .productsContainer {
+    background-color: lightcoral;
+    padding: 2rem;
+    display: grid;
+    max-height: 80vh;
+    grid-template-rows: 1fr 16fr;
+    transition: max-height 1.5s;
+
+    .filters {
+      background-color: aquamarine;
+    }
+
+    .productGrid {
+      margin-top: 2rem;
+      background-color: beige;
+      width: 100%;
+      overflow: auto;
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+      row-gap: 3rem;
+
+      .product {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding-top: 1rem;
+
+        .productCard {
+          position: relative;
+          background-color: white;
+          border-radius: 2rem;
+          padding: 1rem;
+          display: flex;
+          flex-direction: column;
+          gap: 1.5rem;
+          padding-bottom: 3rem;
+
+          h4 {
+            text-align: center;
+            width: 75%;
+            margin: 0 auto;
+          }
+
+          .price {
+            position: absolute;
+            bottom: 1rem;
+            right: 1rem;
+            padding: 1rem;
+            border-radius: 1rem;
+            background-color: var(--color-primary);
+          }
+        }
+      }
+    }
+  }
+}

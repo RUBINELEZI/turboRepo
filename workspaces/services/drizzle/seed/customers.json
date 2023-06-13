@@ -1,0 +1,62 @@
+[
+  {
+    "email": "customer-01@gmail.com",
+    "firstName": "Ephraim",
+    "lastName": "Revie",
+    "gender": "M"
+  },
+  {
+    "email": "customer-01@gmail.com",
+    "firstName": "Kali",
+    "lastName": "Pipkin",
+    "gender": "F"
+  },
+  {
+    "email": "customer-02@gmail.com",
+    "firstName": "Asa",
+    "lastName": "Alpin",
+    "gender": "M"
+  },
+  {
+    "email": "customer-03@gmail.com",
+    "firstName": "Janene",
+    "lastName": "Jacmar",
+    "gender": "F"
+  },
+  {
+    "email": "customer-04@gmail.com",
+    "firstName": "Catlin",
+    "lastName": "Tupman",
+    "gender": "F"
+  },
+  {
+    "email": "customer-05@gmail.com",
+    "firstName": "Vail",
+    "lastName": "Grogor",
+    "gender": "M"
+  },
+  {
+    "email": "customer-06@gmail.com",
+    "firstName": "Vidovik",
+    "lastName": "Grimsey",
+    "gender": "M"
+  },
+  {
+    "email": "customer-07@gmail.com",
+    "firstName": "Tammie",
+    "lastName": "Arnason",
+    "gender": "F"
+  },
+  {
+    "email": "customer-08@gmail.com",
+    "firstName": "Jessie",
+    "lastName": "Sexstone",
+    "gender": "M"
+  },
+  {
+    "email": "customer-09@gmail.com",
+    "firstName": "Bianca",
+    "lastName": "Beake",
+    "gender": "F"
+  }
+]

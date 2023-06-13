@@ -1,0 +1,10 @@
+.link {
+  font-size: 0.875rem /* 14px */;
+  line-height: 1.25rem /* 20px */;
+  font-weight: 500;
+  color: var(--color-primary-600);
+
+  &:hover {
+    text-decoration: underline;
+  }
+}

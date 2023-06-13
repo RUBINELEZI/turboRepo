@@ -1,0 +1,16 @@
+{
+  "name": "ui",
+  "version": "0.0.0",
+  "main": "index.tsx",
+  "types": "index.tsx",
+  "license": "MIT",
+  "dependencies": {
+    "react-slick": "^0.29.0",
+    "jquery": "^1.8.0",
+    "slick-carousel": "^1.8.1"
+  },
+  "scripts": {
+    "lint": "eslint \"**/*.ts*\"",
+    "generate:component": "turbo gen react-component"
+  }
+}

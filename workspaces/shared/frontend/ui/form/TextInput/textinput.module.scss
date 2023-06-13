@@ -1,0 +1,28 @@
+.container {
+  display: block;
+
+  .label {
+    margin-bottom: 0.5rem;
+    display: block;
+    font-size: 0.875rem;
+    line-height: 1.25rem;
+    font-weight: 500;
+  }
+
+  .input {
+    display: block;
+    width: 100%;
+    font-size: 0.875rem /* 14px */;
+    line-height: 1.25rem;
+    border-radius: 0.5rem;
+    border-width: 1px;
+    border-color: rgb(209 213 219);
+    background-color: rgb(249 250 251);
+    padding: 0.625rem;
+    color: rgb(17 24 39);
+
+    &:focus {
+      border-color: var(--color-primary-600);
+    }
+  }
+}

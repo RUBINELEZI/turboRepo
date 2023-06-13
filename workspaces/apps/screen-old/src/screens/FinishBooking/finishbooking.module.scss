@@ -1,0 +1,41 @@
+.finishBooking {
+  margin: 0 auto;
+  max-width: 600px;
+  display: flex;
+  flex-direction: column;
+}
+
+.radiosContainer {
+  margin-top: 1rem;
+  display: flex;
+  justify-content: space-around;
+}
+
+.header {
+  display: grid;
+  gap: 1rem;
+
+  a {
+    font-size: 1.2rem;
+  }
+}
+
+.keyboard {
+  > div {
+    display: none;
+  }
+  textarea {
+    padding: 2rem;
+    font-size: 1.2rem;
+    display: block;
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 600px) {
+  .keyboard {
+    > div {
+      display: block;
+    }
+  }
+}

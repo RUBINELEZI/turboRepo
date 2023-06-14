@@ -12,7 +12,7 @@ export default function ({ users }) {
         columns={[
           {
             field: 'active',
-            format: val => (
+            format: (val, row) => (
               <div className={cn('w-3 h-3 rounded-full', val ? 'bg-green-500' : 'bg-red-500')} />
             ),
           },

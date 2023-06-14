@@ -16,9 +16,7 @@ export default function RootLayout({ children, ...props }) {
     <html lang="en">
       <body className={poppins.className}>
         <NextAuthProvider>
-          <ReactQueryProvider>
-            <MainLayout title="Admin">{children}</MainLayout>
-          </ReactQueryProvider>
+          <ReactQueryProvider>{children}</ReactQueryProvider>
         </NextAuthProvider>
       </body>
     </html>

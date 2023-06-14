@@ -26,7 +26,7 @@ export const AddToCart: React.FC<AddToCartProps> = ({ title, description, imageU
         }
     };
     return (
-        <div className="w-screen h-screen flex justify-center items-center">
+        <div className="w-screen flex justify-center items-center">
             <div className="container mx-auto max-w-sm w-full p-4 ">
                 <div className="card flex flex-col justify-center p-10 bg-white rounded-lg shadow-2xl">
                     <div className="prod-title">

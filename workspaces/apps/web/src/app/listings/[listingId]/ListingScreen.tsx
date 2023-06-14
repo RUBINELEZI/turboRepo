@@ -1,5 +1,4 @@
 'use client';
-
 import ListingHead from "../ListingHead";
 import ListingInfo from "../ListingInfo";
 
@@ -38,6 +37,7 @@ const ListingScreen = ({
           >
             <ListingInfo
               description={listing.description}
+              listing={listing}
             />
             <div 
               className="

@@ -1,7 +1,9 @@
 'use client';
+import BookingWidget from "../BookingWidget";
 import ListingHead from "../ListingHead";
 import ListingInfo from "../ListingInfo";
-
+import Map from 'map'
+import OpeningHours from "../OpenigHours";
 const initialDateRange = {
   startDate: new Date(),
   endDate: new Date(),
@@ -17,13 +19,15 @@ const ListingScreen = ({
   return ( 
       <div 
         className="
-          max-w-screen-lg 
+        max-w-screen-xl
           mx-auto
+          px-10
         "
       >
         <div className="flex flex-col gap-6">
           <ListingHead
             title={listing.title}
+            subTitle={listing.locationValue}
             images={listing.images}
           />
           <div 
@@ -47,8 +51,15 @@ const ListingScreen = ({
                 md:col-span-3
               "
             >
-            BOOKING WIDGET
+          
+            <BookingWidget />
+            <OpeningHours />
             </div>
+          </div>
+
+
+          <div className="h-40 mb-10">
+          <Map salons={[listing]}/>
           </div>
         </div>
       </div>

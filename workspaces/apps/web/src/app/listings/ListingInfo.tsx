@@ -1,5 +1,6 @@
 'use client';
 import Map from 'map'
+import PricingSection from './PricingTable';
 
 const ListingInfo = ({
   description,
@@ -19,7 +20,6 @@ const ListingInfo = ({
           "
         >
           <div>About Us</div>
-
         </div>
       </div>
       <div className="
@@ -27,8 +27,7 @@ const ListingInfo = ({
         <div className='mb-10'>
         {description}
         </div>
-      
-        <Map salons={[listing]}/>
+        <PricingSection />
       </div>
   
       <hr />

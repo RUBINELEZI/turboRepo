@@ -8,12 +8,12 @@ import BusinessCard from 'ui/BusinessCard'
 import Carousel from 'ui/Carousel'
 import { AddToCart } from 'ui/AddToCard'
 import { log } from 'console'
+import Link from 'next/link'
 
 const HomeScreen = ({ salons, categoriess, featured ,products}) => {
   const cardClicked = () => {
     console.log('123')
   }
-
   return (
     <>
       <div className={styles.mapContainer}>
@@ -38,6 +38,7 @@ const HomeScreen = ({ salons, categoriess, featured ,products}) => {
             <Carousel>
               {featured.map((business, index) => (
                 <div key={index} className="px-2">
+                  <Link href={`/listings/${business.id}`}>
                   <BusinessCard
                     image={business.image}
                     address={business.address}
@@ -46,6 +47,7 @@ const HomeScreen = ({ salons, categoriess, featured ,products}) => {
                     priceRange={business.priceRange}
                     onClick={cardClicked}
                   />
+                  </Link>
                 </div>
               ))}
             </Carousel>

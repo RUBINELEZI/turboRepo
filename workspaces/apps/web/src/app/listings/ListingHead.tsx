@@ -7,12 +7,13 @@ import Heading from "./Heading";
 const ListingHead = ({
   title,
   images,
+  subTitle
 }) => {
   return ( 
     <>
       <Heading
         title={title}
-        subtitle={`Oslo Norway`}
+        subtitle={subTitle}
       />
       <div className="
           w-full
